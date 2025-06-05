@@ -7,5 +7,9 @@
 * //form[@id='contactForm']//input[@id='email']
 * //form[@id='contactForm']
 * //footer//p
+* //div[@class='team']//ul/li[1]/h4
 * //div[@class='service-item'][2]/p
-* 
+* //section[@id='contact']//h2[@class='sectionTitle']
+* //li[a[text()='Services']]//ul[@class='dropdown']//a
+* //div[@class='team']//ul/li[1]
+* //form[@id='contactForm']//input[@type='submit' and @value='Send Message']
