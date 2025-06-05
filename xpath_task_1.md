@@ -1,7 +1,7 @@
-1. //h1[@id='mainTitle']
-2. //nav//a[text()='About Us']
-3. //u[@class='dropdown']//a[text()='Graphic Design']
-4. //div[@class='service-item']//h4[text()='Jane Smith']
-
+ //h1[@id='mainTitle']
+ //nav//a[text()='About Us']
+ //u[@class='dropdown']//a[text()='Graphic Design']
+ //div[@class='service-item']//h4[text()='Jane Smith']
+ //div[@class='service-item'][h3='SEO Services']/p
 
 
