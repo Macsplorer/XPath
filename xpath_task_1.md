@@ -6,3 +6,5 @@
 * /section[@id='services']//div[@class='service-item']
 * //form[@id='contactForm']//input[@id='email']
 * //form[@id='contactForm']
+* //footer//p
+*
