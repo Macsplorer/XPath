@@ -1,4 +1,4 @@
-# 1.XPath for the highlighted icon/button
+1.XPath for the highlighted icon/button
 ##* //*[@id="root"]/div/div[1]/div[2]/div[2]/div[1]
 * //*[@id="root"]/div/div/div[1]/div[1]/div/form
 * //*[@id="root"]/div/div/div[1]/div[1]/div/form/button
